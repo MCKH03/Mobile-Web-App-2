@@ -1,0 +1,20 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" id="arrow-down">
+    <path d="M13.9999 25.6667C20.4432 25.6667 25.6666 20.4434 25.6666 14C25.6666 7.55672 20.4432 2.33337 13.9999 2.33337C7.5566 2.33337 2.33325 7.55672 2.33325 14C2.33325 20.4434 7.5566 25.6667 13.9999 25.6667Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M14 9.91663V16.9166"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M10.5 14.5834L14 18.0834L17.5 14.5834"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="arrow-left">
+    <path d="M29.3334 16C29.3334 8.63624 23.3639 2.66671 16.0001 2.66671C8.63628 2.66671 2.66675 8.63625 2.66675 16C2.66675 23.3638 8.63628 29.3334 16.0001 29.3334C23.3639 29.3334 29.3334 23.3638 29.3334 16Z"  stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M17.6799 20.7067L12.9866 16L17.6799 11.2933"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" id="heart">
+    <path d="M14.7233 24.2784C14.3266 24.4184 13.6733 24.4184 13.2766 24.2784C9.89325 23.1234 2.33325 18.305 2.33325 10.1384C2.33325 6.53337 5.23825 3.6167 8.81992 3.6167C10.9433 3.6167 12.8216 4.64337 13.9999 6.23003C15.1783 4.64337 17.0683 3.6167 19.1799 3.6167C22.7616 3.6167 25.6666 6.53337 25.6666 10.1384C25.6666 18.305 18.1066 23.1234 14.7233 24.2784Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" id="more">
+    <path d="M13.9999 25.6667C20.4166 25.6667 25.6666 20.4167 25.6666 14C25.6666 7.58338 20.4166 2.33338 13.9999 2.33338C7.58325 2.33337 2.33325 7.58337 2.33325 14C2.33325 20.4167 7.58325 25.6667 13.9999 25.6667Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M18.6626 14L18.6731 14"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M13.9946 14L14.0051 14"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M9.32693 14L9.3374 14"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+</svg>

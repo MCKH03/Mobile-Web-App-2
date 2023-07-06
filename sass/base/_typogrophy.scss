@@ -1,0 +1,12 @@
+@use "variables" as *;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: $font-size-medium;
+  color: $light-blue-3;
+}

@@ -1,0 +1,65 @@
+@use "../base/variables" as *;
+
+.header {
+  &__img-box {
+    width: 23.8rem;
+    height: 23.8rem;
+
+    background: linear-gradient(
+      to bottom,
+      rgba(47, 69, 80, 1),
+      rgba(62, 98, 89, 0.38)
+    );
+    border-radius: 2.4rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: auto;
+    margin-bottom: 4rem;
+  }
+
+  &__img {
+    width: 90%;
+    height: 90%;
+
+    border-radius: 2rem;
+  }
+
+  &__text-box {
+    padding-bottom: 2.4rem;
+    border-bottom: 2.5px solid $dark-blue-4;
+  }
+
+  &__span {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+
+    &--small {
+      color: $light-blue-1;
+    }
+
+    &--big {
+      font-size: $font-size-big;
+    }
+  }
+}
+
+.icon-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &__icons {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+  }
+
+  &__span {
+    font-size: $font-size-small;
+    color: $light-blue-3;
+  }
+}

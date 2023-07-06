@@ -1,0 +1,17 @@
+@use "variables" as *;
+
+main {
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 43rem;
+  background: linear-gradient(to bottom, #2a4046, #000b12);
+
+  padding: 2.5rem;
+  padding-bottom: 3rem;
+}
